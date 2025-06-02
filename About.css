@@ -1,0 +1,10 @@
+#colorText {
+      padding: 20px;
+      font-size: 24px;
+      font-family: sans-serif;
+      background-color: black;
+      color: white;
+      display: inline-block;
+      border-radius: 8px;
+      transition: background-color 0.5s, color 0.5s;
+    }
